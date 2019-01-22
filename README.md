@@ -1,4 +1,7 @@
 # mikutap
+
+本项目基于：https://github.com/HFIProgramming/mikutap
+
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
@@ -32,4 +35,5 @@ http://exittunes.com/license/
 
 # DEMO  
 [https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
+[https://github.lesschina.com/life/music](https://github.lesschina.com/life/music)
 
